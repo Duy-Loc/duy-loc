@@ -8,5 +8,6 @@ namespace duyloc.models
 {
     internal class User
     {
+        public int ID { get; set; }
     }
 }
